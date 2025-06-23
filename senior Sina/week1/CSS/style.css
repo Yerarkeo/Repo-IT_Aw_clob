@@ -1,0 +1,44 @@
+
+.Navbar{
+    padding: 20px;
+    background-color: rgb(212, 54, 146);
+
+
+}
+#green{
+  color:rgb(22, 41, 219);
+}
+ul{
+    display: flex;
+
+}
+.Navbar ul li{
+   
+    padding: 20px;
+    list-style: none;
+    justify-content: right;
+    
+}
+.Navbar ul li a{
+    text-decoration: none;
+    color: #ffff;
+    font-size:20px;
+    font-weight: bolder;
+
+}
+#brue{
+    color: rgb(233, 17, 17);
+}
+#red{
+    color: rgb(226, 43, 89);
+}
+p{
+    font-size: larger;
+}
+#ee{
+    font-size: 20px;
+}
+.Allbum Stick card{
+    
+}
+
